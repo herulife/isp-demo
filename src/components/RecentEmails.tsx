@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import { MoreVertical } from "lucide-react";
 
 const emails = [
     {
