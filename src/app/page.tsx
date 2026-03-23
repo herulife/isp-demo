@@ -54,7 +54,7 @@ export default function Home() {
               </div>
               <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight text-white mb-8 leading-[1.1]">
                 Solusi Otomasi Total <br className="hidden md:block" />
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-blue-400 to-primary">Bisnis WiFi Anda</span>
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-blue-400 to-primary">Bisnis ISP Anda</span>
               </h1>
               <p className="text-xl text-muted-foreground mb-10 max-w-2xl mx-auto leading-relaxed">
                 Tinggalkan cara lama. Kelola tagihan, isolir pelanggan yang menunggak secara otomatis, dan panen keuntungan dengan satu dasbor pintar.
@@ -149,7 +149,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="border-t border-white/5 py-8 text-center bg-black/40 backdrop-blur-md">
           <p className="text-muted-foreground text-sm flex items-center justify-center gap-2">
-            Built with <Shield className="w-4 h-4 text-primary" /> by Heru fidiyanto.
+            Built with <Shield className="w-4 h-4 text-primary" /> by <a href="https://herufidiyanto.netlify.app/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors hover:underline">Heru fidiyanto</a>.
           </p>
         </footer>
       </div>
